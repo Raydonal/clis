@@ -22,6 +22,8 @@ Description: Provides scalable, statistically calibrated influence diagnostics
     additive (semiparametric) submodels, and a full suite of diagnostic plots
     are included.
 License: GPL-3
+URL: https://github.com/Raydonal/clis, https://raydonal.github.io/clis/
+BugReports: https://github.com/Raydonal/clis/issues
 Encoding: UTF-8
 Depends: R (>= 4.1.0)
 Imports: gamlss (>= 5.4.0), gamlss.dist (>= 6.0.0), stats, graphics,
