@@ -6,7 +6,7 @@ Version: 0.3.6
 Authors@R: c(
     person("Raydonal", "Ospina", email = "raydonal@de.ufpe.br",
            role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9884-9090")))
-Description: Provides scalable, statistically calibrated influence diagnostics
+Description: Provides fast, statistically calibrated influence diagnostics
     for zero-or-one inflated beta (BIc) regression models with variable
     dispersion. The core idea is to use the conformal normal curvature of
     Poon and Poon (1999) <doi:10.1111/1467-9868.00162> as a non-conformity
