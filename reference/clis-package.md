@@ -19,6 +19,16 @@ and conditional-mean/precision components, penalised additive
 (semiparametric) submodels, and a full suite of diagnostic plots are
 included.
 
+## See also
+
+Useful links:
+
+- <https://github.com/Raydonal/clis>
+
+- <https://raydonal.github.io/clis/>
+
+- Report bugs at <https://github.com/Raydonal/clis/issues>
+
 ## Author
 
 **Maintainer**: Raydonal Ospina <raydonal@de.ufpe.br>

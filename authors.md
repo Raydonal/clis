@@ -7,12 +7,17 @@
 
 ## Citation
 
+Source:
+[`DESCRIPTION`](https://github.com/Raydonal/clis/blob/main/DESCRIPTION)
+
 Ospina R (2026). *clis: Conformal Local Influence Screening for
-Bounded-Response Regression*. R package version 0.3.6.
+Bounded-Response Regression*. R package version 0.3.6,
+<https://github.com/Raydonal/clis>.
 
     @Manual{,
       title = {clis: Conformal Local Influence Screening for Bounded-Response Regression},
       author = {Raydonal Ospina},
       year = {2026},
       note = {R package version 0.3.6},
+      url = {https://github.com/Raydonal/clis},
     }
