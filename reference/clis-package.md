@@ -1,6 +1,6 @@
 # clis: Conformal Local Influence Screening for Bounded-Response Regression
 
-Provides scalable, statistically calibrated influence diagnostics for
+Provides fast, statistically calibrated influence diagnostics for
 zero-or-one inflated beta (BIc) regression models with variable
 dispersion. The core idea is to use the conformal normal curvature of
 Poon and Poon (1999)
