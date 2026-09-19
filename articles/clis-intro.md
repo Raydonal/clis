@@ -27,8 +27,9 @@ complete coverage). This dataset ships with the package so the vignette
 builds without external dependencies. The paper’s applications use the
 `ReadingSkills` data from the `betareg` package (one-inflated, small
 sample) and the `lungFunction` data from the `gamlss.data` package
-(one-inflated, large sample); the script `data-raw/application.R`
-reproduces both, and `data-raw/README.md` gives a runbook for all the
+(one-inflated, large sample); the scripts
+`data-raw/application-reading.R` and `data-raw/application-lung.R`
+reproduce them, and `data-raw/README.md` gives a runbook for all the
 paper’s tables and figures.
 
 ``` r
